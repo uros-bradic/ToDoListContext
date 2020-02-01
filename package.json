@@ -1,7 +1,7 @@
 {
   "name": "simple-to-do-list-using-context",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple to do list using context",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
